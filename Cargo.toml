@@ -1,0 +1,7 @@
+[package]
+name = "rewrite-use"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+syn = { version = "1.0.105", features = ["full"] }
